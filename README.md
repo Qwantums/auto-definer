@@ -1,2 +1,2 @@
-# auto-definer
+# Auto Definer
 A discord bot for defining words!
