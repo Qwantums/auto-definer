@@ -1,0 +1,30 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "A Discord bot for defining words",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "node deploy-commands.js",
+    "start": "node .",
+    "pushCom": "node deploy-commands.js",
+    "pushAll": "node deploy-commands-global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwantums/auto-definer.git"
+  },
+  "author": "Qwantums",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Qwantums/auto-definer/issues"
+  },
+  "homepage": "https://github.com/Qwantums/auto-definer#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0"
+  }
+}
