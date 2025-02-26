@@ -10,6 +10,15 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 client.commands = new Collection();
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
+const noFilePath = path.join(__dirname, 'data');
+
+if (!fs.existsSync(noFilePath)) {
+    fs.mkdirSync(noFilePath, (err) => {
+        if (err) {
+            throw new Error('what', err);
+        }
+    });
+}
 
 for (const folder of commandFolders) {
     const commandsPath = path.join(foldersPath, folder);
