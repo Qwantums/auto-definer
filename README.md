@@ -7,7 +7,7 @@ A discord bot for defining words!
 
 TERMS OF SERVICE AGREEMENT
 
-This Terms of Service Agreement (the "Agreement") is entered into between Stephen Crowell ("Bot Owner") and the user ("User") of the auto-definer (a.k.a. "Dictionary") Discord bot (the "Bot").
+This Terms of Service Agreement (the "Agreement") is entered into between Qwantums ("Bot Owner") and the user ("User") of the auto-definer (a.k.a. "Dictionary") Discord bot (the "Bot").
 
 By using the Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.
 
@@ -25,7 +25,7 @@ By using the Bot, the User acknowledges that they have read this Agreement, unde
 
 Privacy Policy for auto-definer (a.k.a. "Dictionary" on discord)
 
-This Privacy Policy governs the collection, use, and sharing of personal information by auto-definer, a Discord bot developed by Stephen Crowell. By using auto-definer, you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the collection, use, and sharing of personal information by auto-definer, a Discord bot developed by Qwantums. By using auto-definer, you agree to the terms of this Privacy Policy.
 
 Information We Collect
 
